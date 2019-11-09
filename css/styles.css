@@ -1,0 +1,26 @@
+/*******************TAG SELECTORS************************/
+
+  body {
+    background-color: #EAF6F6;
+  }
+
+  hr {
+    background-color: white;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 3px;
+    width: 10%;
+  }
+
+  h1,h2,h3,h4,h5,h6 {
+    font-weight: 300;
+    color: #22A39F;
+  }
+
+
+
+/*******************TAG SELECTORS************************/
+/*Add a class="" to the h1-h6 tags/any tags, give a name then write it in css like: .h1 for example*/
+
+
+/******************ID SELECTORS************************/
